@@ -2,7 +2,7 @@
 
 a 20 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
 
-## I'm fascinated with Computer Science and programming 'cause it enables to do great work and great work is good work. 
+I'm fascinated by Computer Science and programming because it enables endless (nearly) possibilites.
 
 # What I currently do:  
 - Studying Computer Science at the Rheinische Friedrich-Wilhelms University Bonn.
