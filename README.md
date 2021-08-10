@@ -6,7 +6,7 @@ I'm fascinated by Computer Science and programming because it enables (nearly) e
 
 # What I currently do:  
 - 🎓 Studying Computer Science at the Rheinische Friedrich-Wilhelms University Bonn.
-- 👨🏽‍🏫 Tutoring at cleverly (Computer Science and Maths)
+- 👨🏽‍🏫 Tutoring Computer Science and Maths at [Cleverly] 
 
 # The code I write (some programming skills):  
 - TypeScript/NodeJS/JS (main language)
@@ -23,3 +23,4 @@ I'm fascinated by Computer Science and programming because it enables (nearly) e
 - 🐍 Learn more python
 
 [StarKI]: https://github.com/lukasgueth/StarKI
+[Cleverly]: https://www.linkedin.com/company/cleverly-de
