@@ -10,7 +10,7 @@ I'm fascinated by Computer Science and programming because it enables (nearly) e
 
 # The code I write (some programming skills):  
 - TypeScript/NodeJS/JS (main language)
-- Learned Java while programming StarKI [StarKIRepo] + at University
+- Learned Java while programming [StarKI] + at University
 - Started with PHP as a real programming language
 - Sadly had to learn Delphi at school
 - Worked quite a lot with the Angular Framework
@@ -22,4 +22,4 @@ I'm fascinated by Computer Science and programming because it enables (nearly) e
 # Programming goals: 
 - 🐍 Learn more python
 
-[StarKIRepo]: https://github.com/lukasgueth/StarKI
+[StarKI]: https://github.com/lukasgueth/StarKI
