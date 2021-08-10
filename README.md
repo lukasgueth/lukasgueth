@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi I'm Lukas, 👋
 
-<!--
-**lukasgueth/lukasgueth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## a 20 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
 
-Here are some ideas to get you started:
+## I'm fascinated with Computer Science and programming 'cause it enables to do great work and great work is good work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I currently do:  
+- Studying Computer Science at the Rheinische Friedrich-Wilhelms University Bonn.
+- Tutoring at cleverly (Computer Science and Maths)
+
+# The code I write (some programming skills):  
+- TypeScript/NodeJS/JS (main language)
+- Learned Java while programming StarKI (repo link) + at University
+- Started with PHP as a real programming language
+- Sadly had to learn Delphi at school
+- Worked quite a lot with the Angular Framework
+
+# Computer Science goals: 
+- Study AI technologies
+- Study ML with python and R
+
+# Programming goals: 
+- Learn more python
+-- INSERT --
