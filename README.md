@@ -1,6 +1,6 @@
 ### Hi I'm Lukas, 👋
 
-## a 20 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
+a 20 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
 
 ## I'm fascinated with Computer Science and programming 'cause it enables to do great work and great work is good work. 
 
