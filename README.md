@@ -1,6 +1,6 @@
 ### Hi I'm Lukas, 👋
 
-a 20 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
+a 21 years-old Computer Science undergraduate student. I'm currently obsessed with TypeScript and NodeJS.
 
 I'm fascinated by Computer Science and programming because it enables (nearly) endless possibilites.
 
@@ -10,10 +10,10 @@ I'm fascinated by Computer Science and programming because it enables (nearly) e
 
 ### The code I write (some programming skills):  
 - TypeScript/NodeJS/JS (main language)
-- Learned Java while programming [StarKI] + at University
+- Learned Java while programming [StarKI] (University of Passau) + at my university
 - Started with PHP as a real programming language
 - Sadly had to learn Delphi at school
-- Worked quite a lot with the Angular Framework
+- Worked quite a lot with the Angular and ExpressJS Framework
 
 ### Computer Science goals: 
 - 🤖 Study AI technologies
